@@ -1,3 +1,10 @@
+# David Fink 2000210
+* Finished the Autoloan, CreditCard, and Deposit completely.
+* Finished the Orchestrator models.
+* Did not finish the Orchestrator controller, service, and etc...
+
+
+
 # Banking Case Study
 
 You're going to create a banking application.  The banking application has the following lines of business (LoBs):
